@@ -1,0 +1,11 @@
+.btn-yellow {
+	background-color: #f1b908;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+.btn-yellow:hover {
+	background: linear-gradient(to right, #414345, #232526);
+}
